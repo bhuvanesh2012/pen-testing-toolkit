@@ -26,15 +26,14 @@ Built as part of **CodTech Internship - Task 3**.
 
 ## ⚙️ How to Use
 
-### 1. Install Libraries using the Terminal
+## 1. Install Libraries using the Terminal
 
 ```bash
 pip install paramiko requests
 ```
-### 2. Run the Toolkit
-**main.py**
+## 2. Run the Toolkit --> main.py
 
-You will see:
+### You will see:
 
 === Penetration Testing Toolkit ===
 1. Port Scanner
@@ -42,13 +41,13 @@ You will see:
 3. Exit
 Choose an option:
 
-### 3. 🧪 Sample Output
+## 3. 🧪 Sample Output
 
 ![Image](https://github.com/user-attachments/assets/3db31818-823b-4a28-8f26-42290e304ff9)
 
 **💡 Note:** The Brute Force module is for educational purposes only and may not work on all real-world login pages due to security protections like CSRF tokens or CAPTCHAs.
 
-### 4. 📂 Example Credentials & Testing
+## 4. 📂 Example Credentials & Testing
 
 For testing the Brute Forcer, either:
 
@@ -65,6 +64,23 @@ password
 
 admin123
 
+---
+
 ## 📄 License
 This project is licensed under the MIT License.
+
+---
+
+### 👤 Author
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** Bhuvanesh D
+
+**INTERN ID:** CT04DN710
+
+**DOMAIN:** CYBER SECURITY AND ETHICAL HACKING
+
+**DURATION:** 4 WEEKS
+
+**MENTOR:** NEELA SANTHOSH KUMAR
 
